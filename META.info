@@ -1,0 +1,9 @@
+{
+    "name"        : "Convert::Bencode"
+    "version"     : "0.1.0",
+    "description" : "Encode and decode Bencode.",
+    "depends"     : [],
+    "source-type" : "git",
+    "source-url"  : "git://github.com/marmay/perl6-Convert-Bencode.git"
+}
+
